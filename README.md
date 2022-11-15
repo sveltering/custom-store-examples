@@ -1,2 +1,1 @@
-# custom-store-examples
- 
+# Custom stores
