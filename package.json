@@ -32,6 +32,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sveltering/custom-store": "^0.0.17"
+		"@sveltering/custom-store": "^0.0.23"
 	}
 }
